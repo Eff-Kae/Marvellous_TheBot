@@ -8,15 +8,15 @@ import axios from 'axios'
 
 global.owner = [
   ['2347085169941', '『✨ᴇꜰꜰ-ᴋᴀᴇ ✨』', true],
-  ['265887977832', 'Marvellous', true], 
+  ['2349031609572', 'ʟɪɢʜᴛ ʏᴀɢᴀᴍɪ', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['23470851699411','265887977832'] 
-global.prems = ['2347085169941', '265887977832', '919398758484']
-global.allowed = ['2347085169941', '265887977832', '19152999993']
+global.mods = ['23470851699411','2349031609572'] 
+global.prems = ['2347085169941', '2349031609572', '']
+global.allowed = ['2347085169941', '2349031609572', '']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'MARVELLOUS THE BOT 💀'
+global.botname = 'ʟɪɢʜᴛ ʏᴀɢᴀᴍɪ'
 global.premium = 'true'
-global.packname = 'MARVELLOUS THE BOT 💀' 
+global.packname = 'ᴇꜰꜰ-ᴋᴀᴇ' 
 global.author = '『✨ᴇꜰꜰ-ᴋᴀᴇ ✨』' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/mr.eff.kae\n' 
