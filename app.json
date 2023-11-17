@@ -1,14 +1,14 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
+  "name": "whatsapp-bot (ʟɪɢʜᴛ ʏᴀɢᴀᴍɪ)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "https://github.com/Eff-Kae/Wisdom_Bot",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "mongodb+srv://EFF-KAE:<EFF-KAE>@cluster0.kgyq4jt.mongodb.net/?retryWrites=true&w=majority",
       "required": false,
       "value": ""
     },
